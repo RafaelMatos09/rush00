@@ -24,9 +24,9 @@ Também implementamos uma validação para evitar que argumentos insuficientes c
 <pre>
 
 A	B	B	B	C
-B				   B
-B				   B
-B				   B
+B				  B
+B				  B
+B				  B
 A	B	B	B	C
 
 </pre>
