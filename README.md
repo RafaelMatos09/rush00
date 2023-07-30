@@ -1,5 +1,3 @@
-# rush00
-Primeiro rush da piscina 42
 
 <h1 align="center"> Rush 00 C </h1>
 
@@ -17,18 +15,17 @@ Após o sucesso deste projeto, estamos ansiosos para continuar desenvolvendo nos
 <br><br>
 <h2 align="left"> 📖 Logica </h2>
 
-Nossa equipe recebeu o exercício "Rush03", que consistia em preencher uma matriz nas bordas com caracteres, usando as letras A, B e C como padrão. Criamos duas funções: a primeira realiza a contagem deC3P0/mysql_connector_java/mchange_commons_java - Criando pull de conexões mais seguras, prevenindo vazamento de conexões.<br>
-- jcalendar - JCalendar é uma biblioteca Java que fornece componentes gráficos de calendário personalizados para os desenvolvedores Java usarem em seus aplicativos. colunas e a segunda a contagem de linhas. A primeira função possui quatro parâmetros (caractere de início, caractere do meio, caractere final e tamanho), permitindo preencher os caracteres corretamente nas posições desejadas.
+Nossa equipe recebeu o exercício "Rush03", que consistia em preencher uma matriz nas bordas com caracteres, usando as letras A, B e C como padrão. Criamos duas funções: a primeira realiza a contagem colunas e a segunda a contagem de linhas. A primeira função possui quatro parâmetros (caractere de início, caractere do meio, caractere final e tamanho), permitindo preencher os caracteres corretamente nas posições desejadas.
 Na segunda função, percorremos as linhas e chamamos a função que identifica os caracteres e conta as colunas. Quando a linha é igual a 1, chamamos a função "imprime" que contém 4 parâmetros, garantindo a impressão correta das letras seguindo as condições.
 Também implementamos uma validação para evitar que argumentos insuficientes causem erros no código.
 
 <pre>
 
 A	B	B	B	C
-B				 B
-B				 B
-B				 B
-A	B	B	B	 C
+B				   B
+B				   B
+B				   B
+A	B	B	B	C
 
 </pre>
 
