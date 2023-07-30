@@ -7,46 +7,60 @@ Primeiro rush da piscina 42
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
-</p>
+</p>C3P0/mysql_connector_java/mchange_commons_java - Criando pull de conexões mais seguras, prevenindo vazamento de conexões.<br>
+- jcalendar - JCalendar é uma biblioteca Java que fornece componentes gráficos de calendário personalizados para os desenvolvedores Java usarem em seus aplicativos.
  
 <h2 align="left"> 📖 Descrição </h2>
 
-Desafio proposto pela Oracle ONE turma 4, desenvolver o back end de um hotel, com sistemas de reservas para hospedes.
+Neste projeto, nos deparamos com nosso primeiro desafio chamado Rush. O principal objetivo era desenvolver uma função capaz de exibir na tela um retângulo de tamanho variável, com um padrão específico dependendo do exercício recebido.
+
+Para alcançar esse objetivo, nosso time de desenvolvimento contou com a utilização de duas versões de código, o antigo e o novo, que foram comparados e avaliados para determinar a melhor abordagem.
+
+A versão final do código implementado foi capaz de atender a todas as especificações do projeto, incluindo a exibição correta do padrão de cada retângulo, bem como a manipulação adequada de possíveis entradas inválidas.
+
+Após o sucesso deste projeto, estamos ansiosos para continuar desenvolvendo nossas habilidades de programação e enfrentar novos desafios no futuro.
 
 <br><br>
+<h2 align="left"> 📖 Logica </h2>
 
+Nossa equipe recebeu o exercício "Rush03", que consistia em preencher uma matriz nas bordas com caracteres, usando as letras A, B e C como padrão. Criamos duas funções: a primeira realiza a contagem deC3P0/mysql_connector_java/mchange_commons_java - Criando pull de conexões mais seguras, prevenindo vazamento de conexões.<br>
+- jcalendar - JCalendar é uma biblioteca Java que fornece componentes gráficos de calendário personalizados para os desenvolvedores Java usarem em seus aplicativos. colunas e a segunda a contagem de linhas. A primeira função possui quatro parâmetros (caractere de início, caractere do meio, caractere final e tamanho), permitindo preencher os caracteres corretamente nas posições desejadas.
+Na segunda função, percorremos as linhas e chamamos a função que identifica os caracteres e conta as colunas. Quando a linha é igual a 1, chamamos a função "imprime" que contém 4 parâmetros, garantindo a impressão correta das letras seguindo as condições.
+Também implementamos uma validação para evitar que argumentos insuficientes causem erros no código.
 
+<pre>
 
-https://user-images.githubusercontent.com/11903546/235318157-35b5c7ca-71ac-40dd-a552-3233dbb38bf5.mp4
+A	B	B	B	C
+B				 B
+B				 B
+B				 B
+A	B	B	B	 C
 
+</pre>
 
 
 <br><br>
 
 <h2 align="left">:hammer: Funcionalidades</h2>
 
-<strong>Hotel Alura</strong>
+<strong>Rush00 42</strong>
         
-- Sistema de autenticação de usuários para que somente usuários pertencentes ao hotel possam acessar o sistema
-- Permitir criar, editar e excluir uma reserva para clientes
-- Pesquisar na base de dados toda a informação de clientes e reservas
-- Registrar, editar e excluir os dados dos hóspedes
-- Calcular o valor da reserva de acordo com os dias que o hospede pretender se hospedar
-- Banco de dados para armazenar todos os dados solicitados anteriormente
+- Criar um retangulo em C, com bordas em letras
+- Retangulo pode ser criando de acordo com os parametros inseridos
+- A função valida inserções insuficientes
+
 
 <br>
 <h2>🛠️ Abrir e rodar o projeto</h2>
 
-Para executar o projeto, faça o download e extraia o arquivo compactado em uma pasta de repositório. Em seguida, abra-o em sua IDE preferida. Antes de executar, verifique se as dependências necessárias estão instaladas e siga as instruções de configuração.
+Faça clone do repositorio e compile o arquivo main.c.
 
 <h2> 🧑 Tecnologias utilizadas </h2>
 
-- Java 1.8
-- IntelliJ IDEA
-- Paradigma de orientação a objetos
-- Banco de dados MySQL
-- Conexão com banco de dados com JDBC
+- Linguagem C 
+- Estrutura de repetição e condição
+- Função write
+
 
 <h2> 💻 Bibliotecas utilizadas </h2>
-- C3P0/mysql_connector_java/mchange_commons_java - Criando pull de conexões mais seguras, prevenindo vazamento de conexões.<br>
-- jcalendar - JCalendar é uma biblioteca Java que fornece componentes gráficos de calendário personalizados para os desenvolvedores Java usarem em seus aplicativos.
+- unistd.h
