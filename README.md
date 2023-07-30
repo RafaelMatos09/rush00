@@ -1,6 +1,8 @@
 
 <h1 align="center"> Rush 00 C </h1>
-
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
  
 <h2 align="left"> 📖 Descrição </h2>
 
