@@ -3,12 +3,6 @@ Primeiro rush da piscina 42
 
 <h1 align="center"> Rush 00 C </h1>
 
-
-
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
-</p>C3P0/mysql_connector_java/mchange_commons_java - Criando pull de conexões mais seguras, prevenindo vazamento de conexões.<br>
-- jcalendar - JCalendar é uma biblioteca Java que fornece componentes gráficos de calendário personalizados para os desenvolvedores Java usarem em seus aplicativos.
  
 <h2 align="left"> 📖 Descrição </h2>
 
