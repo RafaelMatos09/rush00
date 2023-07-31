@@ -16,8 +16,7 @@ A versão final do código implementado foi capaz de atender a todas as especifi
 <h2 align="left"> 📖 Logica </h2>
 
 Nossa equipe recebeu o exercício "Rush03", que consistia em preencher uma matriz nas bordas com caracteres, usando as letras A, B e C como padrão. Criamos duas funções: a primeira realiza a contagem colunas e a segunda a contagem de linhas. A primeira função possui quatro parâmetros (caractere de início, caractere do meio, caractere final e tamanho), permitindo preencher os caracteres corretamente nas posições desejadas.
-Na segunda função, percorremos as linhas e chamamos a função que identifica os caracteres e conta as colunas. Quando a linha é igual a 1, chamamos a função "imprime" que contém 4 parâmetros, garantindo a impressão correta das letras seguindo as condições.
-Também implementamos uma validação para evitar que argumentos insuficientes causem erros no código.
+Na segunda função, percorremos as linhas e chamamos a função que identifica os caracteres e conta as colunas.Também implementamos uma validação para evitar que argumentos insuficientes causem erros no código.
 
 <pre>
 
