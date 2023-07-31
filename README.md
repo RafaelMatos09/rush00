@@ -12,8 +12,6 @@ Para alcançar esse objetivo, nosso time de desenvolvimento contou com a utiliza
 
 A versão final do código implementado foi capaz de atender a todas as especificações do projeto, incluindo a exibição correta do padrão de cada retângulo, bem como a manipulação adequada de possíveis entradas inválidas.
 
-Após o sucesso deste projeto, estamos ansiosos para continuar desenvolvendo nossas habilidades de programação e enfrentar novos desafios no futuro.
-
 <br><br>
 <h2 align="left"> 📖 Logica </h2>
 
