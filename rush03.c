@@ -12,26 +12,7 @@
 
 #include <unistd.h>
 
-void	ft_putchar(c
-	if (x >= 1 && y >= 1 && x <= 4294967295 && y <= 4294967295)
-	{
-		while (linha <= y)
-		{
-			if (linha == 1)
-				imprime('A', 'B', 'C', x);
-			else if (linha == y)
-				imprime('A', 'B', 'C', x);
-			else
-				imprime('B', ' ', 'B', x);
-			linha++;
-		}
-	}
-	else
-	{
-		write(1, "Entrada inválida", 17);
-	}
-}
-har c);
+void	ft_putchar(char c);
 
 void	imprime(char ini, char meio, char fim, int tam)
 {
